@@ -1,12 +1,12 @@
 {
-    "name": "My Online Cookbook",
-    "metaDescription": "The online cookbook of John Doe",
-    "author": "John Doe",
-    "primaryColor": "#ffdb70",
-    "secondaryColor": "#32816e",
-    "searchLabel": "Find recipes by name, tag or ingredients",
-    "searchContainsLabel": "Contains",
-    "servingsLabel": "servings",
-    "ingredientsLabel": "Ingredients",
-    "baseURL": "https://myonlinecookbook.netlify.app"
+  "primaryColor": "#1f2ef6",
+  "author": "Alexandre Plennevaux",
+  "name": "Alexandre's Online Cookbook",
+  "searchLabel": "Find recipes by name, tag or ingredients",
+  "servingsLabel": "servings",
+  "searchContainsLabel": "Contains",
+  "secondaryColor": "#f2f332",
+  "ingredientsLabel": "Ingredients",
+  "metaDescription": "The online cookbook of Alexandre.",
+  "baseURL": "https://myonlinecookbook.netlify.app"
 }
